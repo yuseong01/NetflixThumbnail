@@ -11,6 +11,7 @@
 		AB4BBFCE2C93E9DF00C32D66 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4BBFCD2C93E9DF00C32D66 /* ContentView.swift */; };
 		AB4BBFD02C93E9E300C32D66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB4BBFCF2C93E9E300C32D66 /* Assets.xcassets */; };
 		AB4BBFD32C93E9E300C32D66 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB4BBFD22C93E9E300C32D66 /* Preview Assets.xcassets */; };
+		AB4BBFDA2C93ECC700C32D66 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4BBFD92C93ECC700C32D66 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AB4BBFCD2C93E9DF00C32D66 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AB4BBFCF2C93E9E300C32D66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB4BBFD22C93E9E300C32D66 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AB4BBFD92C93ECC700C32D66 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AB4BBFCB2C93E9DF00C32D66 /* NetflixThumbnailApp.swift */,
 				AB4BBFCD2C93E9DF00C32D66 /* ContentView.swift */,
+				AB4BBFD92C93ECC700C32D66 /* HomeView.swift */,
 				AB4BBFCF2C93E9E300C32D66 /* Assets.xcassets */,
 				AB4BBFD12C93E9E300C32D66 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB4BBFDA2C93ECC700C32D66 /* HomeView.swift in Sources */,
 				AB4BBFCE2C93E9DF00C32D66 /* ContentView.swift in Sources */,
 				AB4BBFCC2C93E9DF00C32D66 /* NetflixThumbnailApp.swift in Sources */,
 			);
