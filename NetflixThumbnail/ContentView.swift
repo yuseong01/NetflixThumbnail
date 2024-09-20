@@ -15,6 +15,7 @@ struct ContentView: View {
                     Image(systemName: "house.fill")
                     Text("Home")
                 }
+                .toolbarBackground(.black, for: .tabBar)
             Text("2탭화면")
                 .tabItem{
                     Image(systemName: "gamecontroller")

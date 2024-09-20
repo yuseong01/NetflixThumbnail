@@ -21,6 +21,7 @@
 		AB4BBFCF2C93E9E300C32D66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB4BBFD22C93E9E300C32D66 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB4BBFD92C93ECC700C32D66 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		AB4BBFDB2C9D21CD00C32D66 /* JSON.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = JSON.playground; path = NetflixThumbnail/JSON.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		AB4BBFBF2C93E9DF00C32D66 = {
 			isa = PBXGroup;
 			children = (
+				AB4BBFDB2C9D21CD00C32D66 /* JSON.playground */,
 				AB4BBFCA2C93E9DF00C32D66 /* NetflixThumbnail */,
 				AB4BBFC92C93E9DF00C32D66 /* Products */,
 			);
